@@ -21,6 +21,7 @@ nav ul li {
     font-family: Helvetica;
     font-size: 18px;
     color: white;
+    padding: 5px;
 }
 
 h2 {
@@ -40,11 +41,34 @@ p {
     font-size: 14px;
 }
 
+#newYorkBackground {
+    background-image: url(../images/the-flatiron-building.png); 
+}
+
 h6 {
     font-family: Helvetica;
     font-size: 11px;
     color: white;
     background-color: dimgray;
     text-align: left;
+}
+
+footer {
+    text-align: left;
+    background-color: dimgray;
+}
+
+footer ul li {
+    display: inline;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: white;
+}
+
+#copyRight {
+    font-family: Helvetica;
+    font-size: 11px;
+    color: white;
+    
 }
 
